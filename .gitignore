@@ -2,3 +2,5 @@ config.yml
 !.circleci/config.yml
 test*
 dist
+.env
+package.nw
